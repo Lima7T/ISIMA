@@ -28,12 +28,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=0;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP4%5CteZZt.h;0;4
-FILE_NAME_1=0;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP4%5CteZZt.c;0;4
-FILE_NAME_2=0;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP4%5Cvecteur.c;0;4
-FILE_NAME_3=0;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP4%5Cvecteur.h;0;4
-FILE_NAME_4=0;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP4%5Ctests_vecteur.c;0;4
+current_page=2
+FILE_NAME_0=0;JSON;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cfrede%5CAppData%5CRoaming%5CBalatro%5CMods%5CZZmod%5Cmetadata.json;0;4
+FILE_NAME_1=351;Lua;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cfrede%5CAppData%5CRoaming%5CBalatro%5CMods%5CZZmod%5Cmain.lua;0;4
+FILE_NAME_2=1641;None;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5Cprog%20fonc%5CTP1.scm;0;4
 
 [build-menu]
 CFT_00_LB=_Compile
