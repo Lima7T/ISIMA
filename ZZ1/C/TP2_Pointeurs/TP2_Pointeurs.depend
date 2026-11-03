@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1791119606 source:c:\users\frede\desktop\tp2_pointeurs\fonctions.c
+	"fonctions.h"
+
+1791119606 c:\users\frede\desktop\tp2_pointeurs\fonctions.h
+
+1791310635 source:c:\users\frede\desktop\tp2_pointeurs\tp2_pointeurs.c
+	"fonctions.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

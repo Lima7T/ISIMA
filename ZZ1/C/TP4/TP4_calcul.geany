@@ -29,7 +29,9 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=100;Lua;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cfrede%5CDocuments%5CGitHub%5CZZmod%5Csrc%5Cjoker1.lua;0;4
+FILE_NAME_0=1878;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP5%5CC4%5Cmain_tests.c;0;4
+FILE_NAME_1=156;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP5%5CC4%5Ccode.c;0;4
+FILE_NAME_2=109;C;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5CC%5CTP5%5CC4%5Ccode.h;0;4
 
 [build-menu]
 CFT_00_LB=_Compile
