@@ -1,0 +1,12 @@
+OPTIONS=-Wall -Wextra -g
+CC=gcc
+exec_TP3:TP3_FloodIt.o fonctions.o mes_fonctions.o
+	${CC} -o exec_TP3 fonctions.o TP3_FloodIt.o mes_fonctions.o -g
+mes_fonctions.o:../mes_fonctions.c ../mes_fonctions.h
+	${CC} ${OPTIONS} ../mes_fonctions.c -c
+fonctions.o:fonctions.c fonctions.h ../mes_fonctions.h 
+	${CC} ${OPTIONS} fonctions.c mes_fonctions.c -c
+TP3_FloodIt.o:fonctions.h TP3_FloodIt.c
+	${CC} ${OPTIONS} TP3_FloodIt.c -c
+clean:
+	rm -f fonctions.o TP3_FloodIt.o *.gch
