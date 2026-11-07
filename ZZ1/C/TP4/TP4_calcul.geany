@@ -28,7 +28,8 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=0
+FILE_NAME_0=1963;None;0;EUTF-8;1;1;0;E%3A%5CISIMA%5CZZ1%5Cprog%20fonc%5CTP1.scm;0;4
 
 [build-menu]
 CFT_00_LB=_Compile
